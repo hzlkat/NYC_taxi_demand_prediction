@@ -34,7 +34,10 @@ The project is organized into the following sections:
 ## Code Availability
 
 The project code is available in two formats: 
-1. Jupyter Notebook (Markdown_ipynb): The code and its documentation can be found in the provided markdown ipynb folder.
+1. Jupyter Notebook (Markdown_ipynb): The code and its documentation can be found in the provided markdown ipynb folder. It contains the interactive notebook with code cells and markdown sections.
 2. PDF Files (Markdown_pdf): The code along with its markdown documentation has also been converted into PDF format for easier readibility and accessibility.
+
+The datasets used in the project are stored in the "Data" folder. It contains the necessary data files required for pre-processing, training, and evaluation.
+To ensure reproducibility, the trained models have been saved and can be reloaded from the "Saved Models" folder.
 
 Please refer to the respective files for a comprehensive understanding of the project implementation and results.
